@@ -15,8 +15,3 @@
 ### Files self coded with above materials
 - **main.ipynb** - Playground to test different methods
 - **final.ipynb** - Clean code as a final project
-
-
-## Tasks left to implement
-- Learning and implementing Optimizers (Adagrad, Adam)
-- Dropouts, Testing, Generalization, and Overfitting
